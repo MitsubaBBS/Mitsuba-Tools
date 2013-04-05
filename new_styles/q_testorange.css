@@ -1,5 +1,5 @@
 html {
-  -moz-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
@@ -176,7 +176,7 @@ blockquote>span.quote {
 }
 
 .quoteLink,.quotelink,.deadlink {
-	color: #66FF00!important;
+	color: #ff9100!important;
 }
 
 div.post div.file {
@@ -606,15 +606,16 @@ iframe[src="about:blank"] {
 }
 
 #quote-preview {
-    display: block;
-    position: absolute;
-    padding: 3px 6px 6px 3px;
-    margin: 0;
-    background: #F0E0D6;
-    border: outset;
-    border-width: 2px;
-    border-color: #D99F91 !important;
-    max-width: 700px;
+	display: block;
+	position: absolute;
+	padding: 3px 6px 6px 3px;
+	margin: 0;
+	background: #282828;
+	border: outset;
+	border-width: 1px;
+	border-color: #fff !important;
+	max-width: 700px;
+	border-radius: 12px;
 }
 
 #quote-preview .dateTime {
