@@ -674,3 +674,10 @@ div.backlink {
 .nameBlock .name span {
 	color: #990000!important;
 }
+
+.hider {
+	margin-left: 1px;
+}
+.hider2 {
+	margin-left: 5px!important;
+	}
