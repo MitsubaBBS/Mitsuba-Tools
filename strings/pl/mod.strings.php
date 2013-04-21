@@ -133,7 +133,6 @@ $lang['mod/pwd_confirm'] = "Powtórz nowe hasło";
 
 
 $lang['mod/board_links'] = " Linki boardów";
-$lang['mod/board_styles'] = " Style boardów";
 $lang['mod/all_static'] = " Wszystkie statyczne strony";
 $lang['mod/rebuild_static'] = "Odbuduj statyczne strony";
 $lang['mod/frontpage'] = " Strona główna";
