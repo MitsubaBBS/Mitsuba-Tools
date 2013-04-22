@@ -628,7 +628,7 @@ iframe[src="about:blank"] {
     border: outset;
     border-width: 1px;
     border-color: #D99F91 !important;
-    max-width: 700px;
+    max-width: 70%;
 	background-color: #071135;
 	margin: 8px !important;
 	padding: 4px!important;

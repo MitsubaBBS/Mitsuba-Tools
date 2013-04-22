@@ -649,7 +649,9 @@ iframe[src="about:blank"] {
 	-moz-box-shadow:0px 0px 12px rgba(0,0,0,0.3);
 	-webkit-box-shadow:0px 0px 12px rgba(0,0,0,0.3);
 	box-shadow:0px 0px 12px #161616;
-	display:block
+	display: block;
+	position: absolute;
+	max-width: 70%;
 }
 
 #quote-preview .dateTime {

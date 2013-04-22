@@ -614,7 +614,7 @@ iframe[src="about:blank"] {
 	border: outset;
 	border-width: 1px;
 	border-color: #fff !important;
-	max-width: 700px;
+	max-width: 70%;
 	border-radius: 12px;
 }
 
