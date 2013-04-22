@@ -293,6 +293,7 @@ $lang['mod/wait_thread'] = "Musisz poczekać trochę dłużej, by założyć nas
 $lang['mod/wait_post'] = "Musisz poczekać trochę dłużej, by ponownie zapostować.";
 $lang['mod/add_whitelist'] = "Dodaj IP do białej listy";
 $lang['mod/board_maxchars'] = "Maksymalna liczba znaków dla pojedynczego posta";
++$lang['mod/enable_api'] = "Włącz API";
 
 //$lang['mod/'] = "";
 ?>
