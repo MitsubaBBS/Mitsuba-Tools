@@ -239,6 +239,8 @@ div.post div.file .fileThumb img {
 span.summary {
     color: #707070;
     margin-top: 10px;
+	display: inline-block;
+	margin-top: 0px;
 }
 
 div.postingMode {
@@ -497,7 +499,7 @@ div.closed {
     border-color: #d69595!important;
 }
 
-.reply:target,.reply.highlight {
+.op:target, .op.highlight, .reply:target,.reply.highlight {
     background: #F0C0B0!important;
     border: 1px solid #D99F91!important;
     border-left: none!important;
