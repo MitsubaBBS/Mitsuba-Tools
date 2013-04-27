@@ -49,6 +49,7 @@ $lang['mod/manage_bbcodes'] = "Zarządzaj BBCode’ami";
 $lang['mod/manage_embeds'] = "Zarządzaj embedami";
 $lang['mod/manage_styles'] = "Zarządzaj stylami";
 $lang['mod/manage_wordfilter'] = "Zarządzaj filtrem słów";
+$lang['mod/manage_spamfilter'] = "Zarządzaj filtrem spamu";
 $lang['mod/manage_range_bans'] = "Zarządzaj banami na zakres";
 $lang['mod/global_message'] = "Wiadomość globalna";
 $lang['mod/rebuild_cache'] = "Odbuduj cache’a";
@@ -57,14 +58,14 @@ $lang['mod/action_log'] = "Zapiski czynności";
 
 $lang['mod/boards'] = "Boardy";
 
-$lang['mod/edit'] = "Edit";
-$lang['mod/delete'] = "Delete";
+$lang['mod/edit'] = "Edytuj";
+$lang['mod/delete'] = "Usuń";
 
-$lang['mod/new_user'] = "New user";
-$lang['mod/type'] = "Type";
-$lang['mod/all'] = "All";
-$lang['mod/add_user'] = "Add user";
-$lang['mod/all_users'] = "All users";
+$lang['mod/new_user'] = "Nowy użytkownik";
+$lang['mod/type'] = "Typ";
+$lang['mod/all'] = "Wszystkie";
+$lang['mod/add_user'] = "Dodaj użytkownika";
+$lang['mod/all_users'] = "Wszyscy użytkownicy";
 
 $lang['mod/by'] = "Autor";
 $lang['mod/title'] = "Tytuł";
@@ -97,7 +98,7 @@ $lang['mod/board_ids'] = " ID postujących";
 $lang['mod/board_embeds'] = " Zezwól na embedy";
 $lang['mod/all_boards'] = " Wszystkie boardy";
 $lang['mod/directory'] = "Ścieżka";
-$lang['mod/name'] = "Nazwa";
+$lang['mod/name'] = "Imię";
 $lang['mod/description'] = "Opis";
 $lang['mod/bump_limit'] = "Limit bumpów";
 $lang['mod/message'] = "Wiadomość";
@@ -227,7 +228,7 @@ $lang['mod/frontpage_url'] = "URL strony głównej";
 $lang['mod/frontpage_menu_url'] = "URL menu strony głównej";
 $lang['mod/news_url'] = "URL wiadomości";
 $lang['mod/sitename'] = "Nazwa strony";
-$lang['mod/from'] = "Z";
+$lang['mod/from'] = "Od";
 $lang['mod/msg_sent'] = "Wiadomość wysłana";
 $lang['mod/user_not_found'] = "Nie znaleziono użytkownika!";
 $lang['mod/to'] = "Do";
@@ -274,12 +275,17 @@ $lang['mod/cleaning_done'] = "Czyszczenie zakończone";
 $lang['mod/config_updated'] = "Uaktualniono konfigurację";
 $lang['mod/board_hidden'] = "Ukryty board";
 $lang['mod/board_nodup'] = "Bez duplikatów plików";
-$lang['mod/nolimits'] = "Brak limitów (użytkownik może bez czekania wysyłać jednego posta po drugim)";
+$lang['mod/nolimits'] = "Brak limitów";
 $lang['mod/wait_thread'] = "Musisz poczekać trochę dłużej, by założyć następny temat.";
 $lang['mod/wait_post'] = "Musisz poczekać trochę dłużej, by ponownie zapostować.";
 $lang['mod/add_whitelist'] = "Dodaj IP do białej listy";
 $lang['mod/board_maxchars'] = "Maksymalna liczba znaków dla pojedynczego posta";
 $lang['mod/enable_api'] = "Włącz API";
+$lang['mod/wf_search'] = "Szukaj"; //wordfilter
+$lang['mod/wf_replace'] = "Zastąp"; //wordfilter
+$lang['mod/wf_add'] = "Dodaj filtr słów";
+$lang['mod/wf_edit'] = "Edytuj filtr słów";
+$lang['mod/show_file'] = "Pokaż plik";
 
 //$lang['mod/'] = "";
 ?>
