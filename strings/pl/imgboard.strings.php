@@ -43,6 +43,7 @@ $lang['img/mod_raw'] = "Surowy HTML";
 $lang['img/mod_sticky'] = "Przyklejony";
 $lang['img/mod_lock'] = "Zablokowany";
 $lang['img/mod_nolimit'] = "Ignoruj limit bumpów";
+$lang['img/mod_nofile'] = "Bez pliku";
 $lang['img/mod_nosizelimit'] = "Ignoruj limit rozmiaru pliku";
 $lang['img/supported_types'] = "Obsługiwane typy plików to: GIF, JPG, PNG";
 $lang['img/max_filesize'] = "Maksymalny rozmiar pliku wynosi %s bajtów.";
@@ -63,4 +64,9 @@ $lang['img/previous'] = "Wstecz";
 $lang['img/next'] = "Dalej";
 $lang['img/posts_omitted'] = "%s postów pominięto. Kliknij %stutaj%s, aby je zobaczyć.";
 $lang['img/comment_long'] = "Wiadomość jest zbyt długa, kliknij %stutaj%s, aby zobaczyć ją w całości.";
+$lang['img/post_reported'] = "Post %s został zgłoszony.";
+$lang['img/mod_nocapcode'] = "Bez capcode'u";
+$lang['img/mod_customcapcode'] = "Capcode personalizowany";
+$lang['img/color'] = "Kolor";
+$lang['img/text'] = "Tekst";
 ?>
