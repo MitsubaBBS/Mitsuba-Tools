@@ -694,7 +694,16 @@ div.backlink {
 
 .hider {
 	margin-left: 5px!important;
-	}
+}
 a.expander {
 	margin-left: 5px;
-	}
+}
+
+#watcher_title {
+	background: #091639!important;
+}
+
+#watcher_box {
+	background-color: rgba(13, 34, 88, 0.5059)!important;
+}
+	

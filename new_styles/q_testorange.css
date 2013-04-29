@@ -658,6 +658,7 @@ div.backlink {
   padding: 0;
   padding-left: 5px;
 }
+
 .backlink span {
   padding: 0;
 }
@@ -665,6 +666,15 @@ div.backlink {
 .hider {
 	margin-left: 5px!important;
 	}
+
 a.expander {
 	margin-left: 5px;
-	}
+}
+	
+#watcher_title {
+	background: #333!important;
+}
+
+#watcher_box {
+	background-color: rgba(40, 40, 40, 0.5059)!important;
+}
