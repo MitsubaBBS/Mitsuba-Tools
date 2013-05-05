@@ -92,11 +92,11 @@ $lang['mod/board_short'] = "Krótki opis boardu (opcjonalne)";
 $lang['mod/board_msg'] = "Wiadomość boardu (opcjonalne)";
 $lang['mod/board_limit'] = "Limit bumpów boardu (opcjonalne; 0 to brak limitu)";
 $lang['mod/board_options'] = "Opcje specjalne boardu";
-$lang['mod/board_spoilers'] = " Zezwól na spoilery obrazkowe";
-$lang['mod/board_no_name'] = " Brak pola „Imię” (przymusowa anonimowość)";
-$lang['mod/board_ids'] = " ID postujących";
-$lang['mod/board_embeds'] = " Zezwól na embedy";
-$lang['mod/all_boards'] = " Wszystkie boardy";
+$lang['mod/board_spoilers'] = "Zezwól na spoilery obrazkowe";
+$lang['mod/board_no_name'] = "Brak pola „Imię” (przymusowa anonimowość)";
+$lang['mod/board_ids'] = "ID postujących";
+$lang['mod/board_embeds'] = "Zezwól na embedy";
+$lang['mod/all_boards'] = "Wszystkie boardy";
 $lang['mod/directory'] = "Ścieżka";
 $lang['mod/name'] = "Imię";
 $lang['mod/description'] = "Opis";
@@ -133,11 +133,11 @@ $lang['mod/pwd_new'] = "Nowe hasło";
 $lang['mod/pwd_confirm'] = "Powtórz nowe hasło";
 
 
-$lang['mod/board_links'] = " Linki boardów";
-$lang['mod/all_static'] = " Wszystkie statyczne strony";
+$lang['mod/board_links'] = "Linki boardów";
+$lang['mod/all_static'] = "Wszystkie statyczne strony";
 $lang['mod/rebuild_static'] = "Odbuduj statyczne strony";
-$lang['mod/frontpage'] = " Strona główna";
-$lang['mod/news_page'] = " Wiadomości";
+$lang['mod/frontpage'] = "Strona główna";
+$lang['mod/news_page'] = "Wiadomości";
 $lang['mod/rebuilding_done'] = "Odbudowa zakończona";
 $lang['mod/rebuild_notice'] = "Po modyfikacji ustawień musisz <a href=\"?/rebuild\">odbudować cache'a boardu</a>";
 $lang['mod/add_link_category'] = "Dodaj kategorię linków";
@@ -286,6 +286,7 @@ $lang['mod/wf_replace'] = "Zastąp"; //wordfilter
 $lang['mod/wf_add'] = "Dodaj filtr słów";
 $lang['mod/wf_edit'] = "Edytuj filtr słów";
 $lang['mod/show_file'] = "Pokaż plik";
-
+$lang['mod/user'] = "Użytkownik";
+$lang['mod/action'] = "Czynności";
 //$lang['mod/'] = "";
 ?>
