@@ -706,4 +706,6 @@ a.expander {
 #watcher_box {
 	background-color: rgba(13, 34, 88, 0.5059)!important;
 }
-	
+
+ .postMessage br:nth-last-child(2) {
+    display: none;

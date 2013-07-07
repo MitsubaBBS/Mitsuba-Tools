@@ -11,5 +11,5 @@ $lang['log/moved_board'] = "Przeniesiono board: /%s/ --> /%s/";
 $lang['log/deleted_board'] = "Zaktualizowano dane boardu: /%s/";
 $lang['log/rebuilt_board'] = "Odbudowano cache'a boardu: /%s/";
 $lang['log/rebuilt_cache'] = "Odbudowano cache'a";
-$lang['log/rebuilt_thumbs'] = "Odbudowamo miniaturki";
+$lang['log/rebuilt_thumbs'] = "Odbudowano miniaturki";
 ?>
